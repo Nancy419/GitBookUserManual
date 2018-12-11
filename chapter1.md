@@ -1,6 +1,6 @@
-# 引言
+# 1 引言
 
-## 系统简介
+## 1.1 系统简介
 
 GitBook是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Markdown 来制作精美的电子书。
 
@@ -14,13 +14,13 @@ GitBook支持输出多种文档格式：
 
 使用GitBook制作电子书，必备两个文件：README.md和SUMMARY.md。
 
-## 术语
+## 1.2 术语
 
 | **术语/缩略词** | **定义** |
 | :--- | :--- |
 |  |  |
 
-## 参考文件
+## 1.3 参考文件
 
 [https://www.jianshu.com/p/feae28bb3111](https://www.jianshu.com/p/feae28bb3111)
 
