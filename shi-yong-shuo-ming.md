@@ -12,7 +12,7 @@
 
 ![](/assets/Initial Book.png)
 
-2. 若想将gitbook客户端上写好的书导入github中，首先要在github上新建repository：
+2.若想将gitbook客户端上写好的书导入github中，首先要在github上新建repository：
 
 ![](/assets/New Repository.png)
 
