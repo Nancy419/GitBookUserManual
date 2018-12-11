@@ -12,7 +12,7 @@ GitBook支持输出多种文档格式：
 * 单HTML网页：支持将内容输出为单页的HTML，不过一般用在将电子书格式转换为PDF或eBook的中间过程；
 * JSON：一般用于电子书的调试或元数据提取。
 
-使用GitBook制作电子书，必备两个文件：README.md和SUMMARY.mdGitBook。
+使用GitBook制作电子书，必备两个文件：README.md和SUMMARY.md。
 
 ## 术语
 
