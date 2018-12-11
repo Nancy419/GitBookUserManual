@@ -4,7 +4,7 @@
 
 ### 首次安装
 
-下载安装GitBook客户端，双击运行，登录，New Book。
+下载安装GitBook客户端，双击运行，登录，New Book，即可开始书写。
 
 ![](/assets/New Book.png)
 
