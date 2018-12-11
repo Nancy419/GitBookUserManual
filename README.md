@@ -1,3 +1,10 @@
-# My Awesome Book
+# GitBook使用手册V1.0
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+**修订记录**
+
+| **日期** | **修订版本** | **修订内容** | **作者** |
+| :--- | :--- | :--- | :--- |
+| 2018/12/11 | 1.0 | 初稿 | 陈南燕 |
+
+
+
