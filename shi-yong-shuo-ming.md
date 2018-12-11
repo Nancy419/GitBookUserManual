@@ -10,19 +10,27 @@
 
 即可对自动生成的书进行编写：
 
-![](/assets/Initial Book.png) 
+![](/assets/Initial Book.png)
 
-2. 若想将gitbook客户端上写好的书导入github中，首先要在github上新建repository：![](/assets/New Repository.png)在gitbook客户端的工具栏中选择Book 》 Repository Settings，把git地址复制到gitbook：
+2. 若想将gitbook客户端上写好的书导入github中，首先要在github上新建repository：
 
-![](/assets/Resository Settings.png)之后，gitbook的内容就可以和github进行同步更新。
+![](/assets/New Repository.png)
 
+在gitbook客户端的工具栏中选择Book 》 Repository Settings，把git地址复制到gitbook：
 
+![](/assets/Resository Settings.png)
+
+之后，gitbook的内容就可以和github进行同步更新。
 
 ### 3.1.2 系统运行及应用更新
 
-无。
+如何手动/自动更新（若有）。
 
 ## 3.2 出错和恢复
 
-无。
+| **错误描述** | **解决办法** |
+| :--- | :--- |
+|  |  |
+
+
 
