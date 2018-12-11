@@ -4,11 +4,9 @@
 
 ### 首次安装
 
-下载安装GitBook客户端，双击运行。
+下载安装GitBook客户端，双击运行，登录，New Book。
 
 ![](/assets/New Book.png)
-
-
 
 ### 系统运行及应用更新
 
